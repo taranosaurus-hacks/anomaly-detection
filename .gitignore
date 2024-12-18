@@ -1,6 +1,7 @@
 # Custom ignores
 pyvenv.cfg
 *.code-workspace
+etc/
 Scripts/
 share/
 
