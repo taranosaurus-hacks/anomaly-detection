@@ -1,7 +1,10 @@
 --extra-index-url https://download.pytorch.org/whl/cu124
 jupyterlab
+keras
 matplotlib
 numpy
+pyod
 scikit-learn
 tensorflow-cpu
 torch
+xgboost
