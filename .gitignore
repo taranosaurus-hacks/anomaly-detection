@@ -1,5 +1,10 @@
 # Custom ignores
+pyvenv.cfg
+*.code-workspace
+Scripts/
 share/
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
